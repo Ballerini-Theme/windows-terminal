@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>Dark Brown theme for <a href="https://themes.vivaldi.net">Vivaldi</a></strong>
+  <strong>Dark Brown theme for <a href="https://vivaldi.com">Vivaldi</a></strong>
 </p>
 
 <p align="center">
