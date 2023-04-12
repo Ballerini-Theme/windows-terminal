@@ -2,12 +2,12 @@
   <br>
   <img src="./icon.png" alt="Ballerini Theme Icon" width="100">
   <br>
-  Ballerini Theme for <a href="https://vivaldi.com/">Vivaldi</a>
+  Ballerini Theme for <a href="https://github.com/microsoft/terminal">Windows Terminal</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark Brown theme for <a href="https://vivaldi.com">Vivaldi</a></strong>
+  <strong>Dark Brown theme for <a href="https://github.com/microsoft/terminal">Windows Terminal</a></strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./ballerini-theme-vivaldi.png" alt="Ballerini Theme Screenshot for Vivaldi">
+  <img src="./ballerini-theme-windows-terminal.png" alt="Ballerini Theme Screenshot for Vivaldi">
 </p>
 
 ## Install
